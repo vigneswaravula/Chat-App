@@ -54,8 +54,12 @@ Start the Client
 ```
 
   
-# Features
-
+# Screenshots
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/c2e377b0-89ac-4926-bafc-42835fad7efc" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/f054fc45-1ba4-47b2-99b3-d38dbd343c7e" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/91751b9e-ce56-46f0-94a4-f85cf8c81737" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/df2eb98e-bdde-48bf-823a-50ce6a9ddd1c" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/0faadc16-43af-49e7-9404-308c9c0c7352" />
 
 ## Made By
 
